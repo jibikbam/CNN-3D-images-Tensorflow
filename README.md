@@ -1,4 +1,4 @@
-# CNN_MRI_123124
+# CNN 3D Images
 
 * Goal: MRI classification task using CNN (Convolutional Neural Network)
 
