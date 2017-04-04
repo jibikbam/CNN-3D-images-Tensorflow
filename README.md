@@ -10,7 +10,7 @@
   3. All image looks very similar and only have subtle difference between subjects. 
 
 * Possible solutions
-  1. Be equipped with good machine if affordable. e.g., GTX 1080 TI x 4, 16GB RAM x 4, Intel Core i7-6900K
+  1. Be equipped with good machine if affordable. e.g., GTX 1080 TI x 4, 16GB RAM x 4, Intel Core i7-6950K
   2. Downsample images in the preprocessing
   3. Data augmentation e.g., rotate, shift, combination
   4. Transfer learning
