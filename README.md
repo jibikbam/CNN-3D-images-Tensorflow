@@ -4,7 +4,7 @@
 
 * Code Dependency: Tensorflow 1.0, Anaconda 4.3.8, Python 2.7
 
-* Difficulty in learning a model for 3D medical images
+* Difficulty in learning a model from 3D medical images
   1. Data size is too big. e.g., 218x182x218 or 256x256x40
   2. There is only limited number of data. In other words, training size is too small.
 
