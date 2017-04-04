@@ -7,6 +7,7 @@
 * Difficulty in learning a model from 3D medical images
   1. Data size is too big. e.g., 218x182x218 or 256x256x40
   2. There is only limited number of data. In other words, training size is too small.
+  3. All image looks very similar and only have subtle difference between subjects. 
 
 * Possible solutions
   1. Be equipped with good machine if affordable. e.g., GTX 1080 TI x 4, 16GB RAM x 4, Intel Core i7-6900K
