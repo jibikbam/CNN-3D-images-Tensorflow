@@ -1,4 +1,4 @@
-# CNN 3D Images
+# CNN 3D Images using Tensorflow
 
 * Goal: MRI classification task using CNN (Convolutional Neural Network)
 
