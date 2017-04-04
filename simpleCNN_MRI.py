@@ -9,7 +9,7 @@ depth = 40
 nLabel = 4
 
 # Start TensorFlow InteractiveSession
-import input_MRI
+import input_3Dimage
 import tensorflow as tf
 sess = tf.InteractiveSession()
 
