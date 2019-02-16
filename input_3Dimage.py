@@ -37,7 +37,7 @@ i    global filenames
     random.shuffle(filenames)
 
 
-def get_data_jpeg(sess, data_set, batch_size):
+def get_data_MRI(sess, data_set, batch_size):
     global batch_index, filenames
 
     if len(filenames) == 0: get_filenames(data_set) 
