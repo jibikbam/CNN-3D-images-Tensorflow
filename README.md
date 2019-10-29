@@ -10,7 +10,7 @@
   3. All image looks very similar and only have subtle difference between subjects. 
 
 * Possible solutions
-  1. Be equipped with good machine if affordable. e.g., TITAN RTX x 4, 16GB RAM x 8, GPU with 32 cores
+  1. Be equipped with good machine especially the RAM
   2. Downsample images in the preprocessing
   3. Data augmentation e.g., rotate, shift, combination
   4. Transfer learning
